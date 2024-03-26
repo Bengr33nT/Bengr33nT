@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bengr33nT
-- 👀 I’m interested in AI, python, hacking and coding
-- 🌱 I’m currently learning python and hacking
-- 💞️ I’m looking to collaborate on hacking
+- 👀 I’m interested in AI, Python, Syber Security and programmin
+- 🌱 I’m currently learning Python and Cyber Security
+- 💞️ I’m looking to collaborate on Cyber Security and AI
 - 📫 How to reach me ... you cant
 
 <!---
