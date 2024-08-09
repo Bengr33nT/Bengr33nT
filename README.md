@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bengr33nT
-- 👀 I’m interested in AI, Python, Cyber Security and Programming
-- 🌱 I’m currently learning Python and Cyber Security
+- 👀 I’m interested in AI, Cyber Security and Python Programming
+- 🌱 I’m currently learning AI, Python and Cyber Security
 - 💞️ I’m looking to collaborate on Cyber Security and AI
 - 📫 How to reach me ... you can't... not yet, I need to level up first
 
